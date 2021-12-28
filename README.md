@@ -8,4 +8,4 @@ FinalReport_MedicalChip.pdf: ppt report (Chinese).
 <br />
 	Main page showing EMG signals
 <br />
-<img src="Main.png" width="100px">
+<img src="Main.png" width="200px">
