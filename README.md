@@ -15,10 +15,5 @@ FinalReport_MedicalChip.pdf: ppt report (Chinese).
 <br />
 	Bluetooth page
 	<img src="BlueTooth.png" width="200px">
-<br />
-	Chip developed by NCKU CBIC LAB
-<p float="left">
-	<img src="Chip1.png" width="200px">
-	<img src="Chip2.png" width="200px">
-</p>
+
 	
