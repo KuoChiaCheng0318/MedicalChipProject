@@ -1,2 +1,2 @@
 # Medical SOC (System on a Chip) Application Project, App Inventor, Course project
-Demo video link: https://drive.google.com/file/d/1rqQOUu5pEsWVoGlWhBri23V1MQew08bk/view?usp=sharing
+Demo video link:https://www.youtube.com/watch?v=2J7q3ZClEKQ
