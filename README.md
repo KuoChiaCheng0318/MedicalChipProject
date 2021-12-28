@@ -8,10 +8,12 @@ FinalReport_MedicalChip.pdf: ppt report (Chinese).
 <br />
 	Main page showing EMG signals
 <br />
-<img src="Main.png" width="200px">
-<br />
-	EMG signal graphs
-	<p float="left">
+
+<p float="left">
+	<img src="Main.png" width="200px">
 	<img src="Graph1.png" width="200px">
 	<img src="Graph2.png" width="200px">
 	</p>
+<br />
+	
+	
