@@ -13,7 +13,7 @@ FinalReport_MedicalChip.pdf: ppt report (Chinese).
 	<img src="Graph2.png" width="200px">
 </p>
 <br />
-	Bluetooth page
+	Bluetooth connection setting page
 	<img src="BlueTooth.png" width="200px">
 
 	
